@@ -1,0 +1,13 @@
+.cache
+.emacs.d
+.local
+.ssh
+.vscode
+.vscode-server
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.wget-hsts
+.Xauthority
+planopt-hs21/
